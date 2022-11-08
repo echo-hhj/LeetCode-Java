@@ -5,13 +5,6 @@ import java.util.ArrayList;
 import java.util.Deque;
 import java.util.List;
 
-/**
- * Created with IntelliJ IDEA.
- *
- * @Author: echo-dundun
- * @Date: 2022/11/07/15:24
- * @Description:
- */
 public class PreorderTraversal {
     public List<Integer> preorderTraversal(TreeNode root) {
         //存放结果
